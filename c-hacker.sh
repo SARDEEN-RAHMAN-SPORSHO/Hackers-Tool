@@ -61,7 +61,7 @@ cd Hackers-Tool
 
 ls
 
-cp scifi.mp3 /sdcard
+cp scifi.mp3 
 
 clear
 
