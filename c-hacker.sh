@@ -30,7 +30,7 @@ echo -e "\e[1m\e[31m\
 echo " "  
 echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mBibeksah \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube-ExpertAnonymous\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31myoutube-S.R.S Tricks Hacks & Gaming\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
@@ -45,7 +45,7 @@ cd $HOME
 
 ls 
 
-cd T-LOAD
+cd Hackers-Tool
 
 ls
 
@@ -57,13 +57,20 @@ cd $HOME
 
 ls
 
-cd T-LOAD
+cd Hackers-Tool
 
 ls
 
 cp scifi.mp3 /sdcard
 
 clear
+
+cd $Home
+
+cd Hackers-Tool
+
+ls
+
 bash packages.sh
 clear
 sleep 4.0
