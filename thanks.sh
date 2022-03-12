@@ -12,12 +12,12 @@ echo '
                  _|    _|    _|_|    _|  _|    _|_|    
                  _|_|_|_|  _|_|_|_|  _|  _|  _|    _|  
                  _|    _|  _|        _|  _|  _|    _|  
-                 _|    _|    _|_|_|  _|  _|    _|_|' | lolcat
+                 _|    _|    _|_|_|  _|  _|    _|_|' 
 echo " "
 echo " "
 cat letter.txt
 echo " "
-echo "                      " ✿♥✿░T░H░A░N░K░S░✿♥✿ | lolcat
+echo "                      " ✿♥✿░T░H░A░N░K░S░✿♥✿ | lolcat "
 echo " " 
 echo " "
 sleep 16.0
