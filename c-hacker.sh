@@ -86,7 +86,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "EXIT FROM TERMUX AND RE OPEN IT AFTER 5 SECONDS |lolcat " 
+echo "             "EXIT FROM TERMUX AND RE OPEN IT AFTER 5 SECONDS |lolcat  
 echo " "
 echo " "
 sleep 3.0
