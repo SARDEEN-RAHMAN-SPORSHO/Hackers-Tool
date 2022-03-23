@@ -36,3 +36,7 @@ pkg install nano -y
 echo ""
 pkg install mpv -y
 echo " "
+pkg install libcaca -y
+echo " " 
+pkg install sl 
+echo " "
