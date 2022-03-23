@@ -1,42 +1,53 @@
-pkg install python -y 
+pkg install sl && clear && pkg install figlet && clear && pkg install neofetch && clear
 echo " "
-pkg install python2 -y
+sl && figlet Hackers-Tool && figlet by && figlet Cyber && figlet Hacker && figlet C-Hacker && figlet Starting && figlet process && clear && figlet Hackers-Tool && neofetch
 echo " "
-pkg install python3 -y
-echo " "
-pip install requests 
-echo " "
-pip install m
+pkg install libcaca -y && clear
 echo " " 
-pip2 install requests 
+pkg install fish && clear
 echo " "
-pip2 install m
+pkg install toilet && clear
 echo " " 
-pip3 install requests 
+pkg install w3m -y && clear
 echo " "
-pip3 install m
+pkg install cowsay && clear
+echo " "
+pkg install python -y && clear
+echo " "
+pkg install python2 -y && clear
+echo " "
+pkg install python3 -y && clear
+echo " "
+pip install requests && clear
+echo " "
+pip install m && clear
 echo " " 
-apt-get update -y
+pip2 install requests && clear
 echo " "
-apt-get upgrade -y
+pip2 install m && clear
+echo " " 
+pip3 install requests && clear
 echo " "
-pkg install figlet -y
+pip3 install m && clear
+echo " " 
+apt-get update -y && clear
 echo " "
-pkg install toilet -y
+apt-get upgrade -y && clear
 echo " "
-pkg install cowsay -y
+pkg install figlet -y && clear
 echo " "
-pkg install nano -y
+pkg install toilet -y && clear
 echo " "
-pkg install ruby -y
+pkg install cowsay -y && clear
 echo " "
-gem install lolcat
+pkg install nano -y && clear
 echo " "
-pkg install nano -y
+pkg install ruby -y && clear
+echo " "
+gem install lolcat && clear
+echo " "
+pkg install nano -y && clear
 echo ""
-pkg install mpv -y
+pkg install mpv -y && clear
 echo " "
-pkg install libcaca -y
-echo " " 
-pkg install sl 
-echo " "
+
