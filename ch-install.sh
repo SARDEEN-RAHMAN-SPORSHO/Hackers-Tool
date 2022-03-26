@@ -50,4 +50,6 @@ pkg install nano -y && clear
 echo ""
 pkg install mpv -y && clear
 echo " "
+bash setup.sh
+echo " "
 
