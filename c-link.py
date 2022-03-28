@@ -61,7 +61,7 @@ def redirect_url():
     elif (method == "location"):
         path = ".location"
     elif (method == "about_device"):
-        path = ". about_divice"
+        path = ".about_divice"
     file = open(path+"/js/main.js", "r").read()
     print("\n\033[92m    \033[94m[\033[37m*\033[94m]\033[92m Enter Your Redirect URL :")
     url = input("    [ \033[37mDefault: YouAreGettingOld\033[92m ]:> \033[37m")
