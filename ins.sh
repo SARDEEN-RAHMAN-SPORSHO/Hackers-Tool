@@ -14,10 +14,12 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo -e "\e[1m\e[33m\nWrite Your \e[31mFirst \e[33mName\e[32m 👇\n\n"
+echo -e "\e[1m\e[33m\nWrite Your \e[31mTerminal \e[33mName\e[32m 👇\n\n"
+Cyber-Hackers
+echo " "
 read varbanner
 echo
-echo -e "\e[1m\e[33m\nWrite Your \e[36mSecond \e[33mName\e[32m 👇\n\n "
+echo -e "\e[1m\e[33m\nWrite Your \e[36mOwn \e[33mName\e[32m 👇\n\n "
 read varcowsay
 echo  "cowsay -f eyes "$varcowsay" | lolcat" > cowtext.txt
 echo "toilet -f big '  $varbanner' -F gay | lolcat" > banner.txt
