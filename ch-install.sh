@@ -52,5 +52,4 @@ pkg install mpv -y && clear
 echo " "
 bash setup.sh
 echo " "
-bash c-hacker.sh
-echo " "
+
