@@ -20,15 +20,15 @@ pkg install python3 -y && clear
 echo " "
 pip install requests && clear
 echo " "
-pip install m && clear
+pip install mechanize && clear
 echo " " 
 pip2 install requests && clear
 echo " "
-pip2 install m && clear
+pip2 install mechanize && clear
 echo " " 
 pip3 install requests && clear
 echo " "
-pip3 install m && clear
+pip3 install mechanize && clear
 echo " " 
 apt-get update -y && clear
 echo " "
