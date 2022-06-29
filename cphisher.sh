@@ -57,14 +57,14 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		${GREEN} 
-		${GREEN} ____      _                               _     _     _               
-		${GREEN}/ ___|   _| |__   ___ _ __                | |   (_)   | |              
+		${GREEN}  ____      _                              _     _     _               
+		${GREEN} / ___|   _| |__   ___ _ __               | |   (_)   | |              
 		${RED}.| |  | | | | '_ \ / _ \ '__|  ____    ____ | |__  _ ___| |__   ___ _ __ 
 		${RED} | |__| |_| | |_) |  __/ |    |_____| | '_ \| '_ \| / __| '_ \ / _ \ '__|
 		${RED}  \____\__, |_.__/ \___|_|            | |_) | | | | \__ \ | | |  __/ |   
-		${GREEN}     |___/                          | .__/|_| |_|_|___/_| |_|\___|_|   
-		${GREEN}                                    | |                                
-		${GREEN}                                    |_|                ${RED}Version : 1.0.1
+		${GREEN}       |___/                         | .__/|_| |_|_|___/_| |_|\___|_|   
+		${GREEN}                                     | |                                
+		${GREEN}                                     |_|                ${RED}Version : 1.0.1
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Cyber Software Development & IT Security Inc. (Sardeen Rahman Sporsho) ${WHITE}
 	EOF
