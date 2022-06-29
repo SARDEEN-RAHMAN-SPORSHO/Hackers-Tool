@@ -1,8 +1,8 @@
-Package: zphisher
+Package: Hackers-Tool/C-phisher
 Version: 2.2
-Installed-Size: 9400
+Installed-Size: 0000
 Architecture: all
-Maintainer: @htr-tech
+Maintainer: @SARDEEN-RAHMAN-SPORSHO
 Depends: php, wget, git, curl, resolv-conf, proot
-Homepage: https://github.com/htr-tech/zphisher
+Homepage: https://github.com/SARDEEN-RAHMAN-SPORSHO/Hackers-Tool
 Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
