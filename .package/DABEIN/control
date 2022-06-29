@@ -1,0 +1,8 @@
+Package: Hackers-Tool/C-phisher 
+Version: 1.0.1
+Installed-Size: 0000
+Architecture: all
+Maintainer: @SARDEEN-RAHMAN-SPORSHO
+Depends: php, wget, git, curl
+Homepage: https://github.com/SARDEEN-RAHMAN-SPORSHO/Hackers-Tool
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
